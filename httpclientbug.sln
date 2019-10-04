@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "httpclientbug", "httpclientbug\httpclientbug.csproj", "{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D5EB28D3-6CB6-4E3B-8C1A-2C06049E1274}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
